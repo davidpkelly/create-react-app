@@ -1,7 +1,7 @@
 {
-  "name": "@davidpkelly/react-scripts",
-  "version": "2.1.1",
-  "description": "Configuration and scripts for Juniper Networks Custom Create React App.",
+  "name": "@davidpkelly/jnpr-react-scripts",
+  "version": "0.0.1",
+  "description": "Configuration and scripts for Juniper Networks Custom Create React App based off of facebook/create-react-app@2.1.1.",
   "repository": "davidpkelly/create-react-app",
   "license": "MIT",
   "engines": {
@@ -54,6 +54,7 @@
     "jest-pnp-resolver": "1.0.1",
     "jest-resolve": "23.6.0",
     "mini-css-extract-plugin": "0.4.3",
+    "node-noop": "^1.0.0",
     "optimize-css-assets-webpack-plugin": "5.0.1",
     "pnp-webpack-plugin": "1.1.0",
     "postcss-flexbugs-fixes": "4.1.0",
